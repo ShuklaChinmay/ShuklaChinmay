@@ -55,7 +55,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShuklaChinmay/ShuklaChinmay/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/ShuklaChinmay/ShuklaChinmay/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
