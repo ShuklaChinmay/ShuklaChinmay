@@ -24,6 +24,14 @@
 
 ---
 
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShuklaChinmay&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -40,6 +48,14 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuklaChinmay&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShuklaChinmay/ShuklaChinmay/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -71,7 +87,7 @@ AI tool that automatically generates **job-specific resumes and cover letters**.
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:chinmayshukla831@gmail.com">
+<a href="mailto:chinmayshukla831@gmail.com?subject=Contact%20from%20GitHub%20Profile&body=Hello%20Chinmay%2C%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect.">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -79,4 +95,4 @@ AI tool that automatically generates **job-specific resumes and cover letters**.
 
 ---
 
-⭐ *Always learning, always building scalable and intelligent software.*
+⭐ *Always learning, building and exploring new technologies.*
