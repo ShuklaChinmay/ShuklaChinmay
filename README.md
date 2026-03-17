@@ -52,12 +52,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ShuklaChinmay/ShuklaChinmay/output/github-contribution-grid-snake.svg" />
-</p>
-
+![Snake animation](https://github.com/ShuklaChinmay/ShuklaChinmay/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🚀 Projects
